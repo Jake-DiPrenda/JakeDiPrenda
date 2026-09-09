@@ -1,0 +1,20 @@
+:: StoryTitle
+Porject1
+
+
+:: StoryData
+{
+  "ifid": "E9448BAD-367C-4542-9AB5-D8B0FAAFDB11",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Start",
+  "zoom": 1
+}
+
+
+:: Start {"position":"1225,575","size":"100,100"}
+“Beware those who disturb his majesty’s slumber” reads the tablet attached to the entrance of the great king's tomb. The words etched into stone seemingly as old as time itself. The carvings were clearly done with intense care and reverence. The tomb is found at the bottom of an ancient tunnel system that stretched on for miles. Many foolish adventurers have thrown their lives away in search of the king’s [[treasure]].
+
+
+:: treasure {"position":"1225,700","size":"100,100"}
+It is said that King ___ ruled over the most prosperous kingdom in history, that the kingdome itself was made of silver and gold
